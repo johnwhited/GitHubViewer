@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub Viewer</string>
+    <string name="trending_github_projects">Trending GitHub Projects</string>
+    <string name="trending_project_author_format">by %1$s</string>
+    <string name="none">none</string>
+    <string name="project_details_language_format">Languages: %1$s</string>
+    <string name="project_details_watchers_format">Watchers: %1$d</string>
+    <string name="project_details_open_issues_format">Open Issues: %1$d</string>
+    <string name="project_details_created_at_format">Created At: %1$s</string>
+    <string name="project_details_updated_at_format">Updated At: %1$s</string>
+    <string name="project_details_clone_url_format">Clone URL: %1$s</string>
+    <string name="network_error_message">no valid response received from server</string>
+    <string name="fragment_network_error_message">The following error occurred while retrieving data: \"%1$s\"</string>
+</resources>
