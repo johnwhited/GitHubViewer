@@ -1,2 +1,2 @@
 # GitHubViewer
-Sample application demonstrating MVVM &amp; Clean architecture on Android
+Sample application demonstrating MVVM architecture on Android
